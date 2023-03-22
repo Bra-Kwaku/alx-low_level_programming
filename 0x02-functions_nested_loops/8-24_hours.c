@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- * jack_bauer 
+ * jack_bauer - Check fom github
  * Description: function prints every minute in one day
  * Return: Nothing
  */
-
 void jack_bauer(void)
-
 {
 	int H, M;
 
